@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "STORAGE_CONNECTION": "DefaultEndpointsProtocol=https;AccountName=storage06221;AccountKey=YMhdoADvlPnukoiEUc9XNW6cObvH2v5BYmaAFllSCTX0tfh5PhaXJDThIIm1j4HJ78DIqrd74r3s+AStCyrwCg==;EndpointSuffix=core.windows.net",
+    "PROJECT_ENDPOINT": "https://reibo-mba14csf-eastus2.services.ai.azure.com/api/projects/reibo-mba14csf-eastus2_project",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storage06221;AccountKey=YMhdoADvlPnukoiEUc9XNW6cObvH2v5BYmaAFllSCTX0tfh5PhaXJDThIIm1j4HJ78DIqrd74r3s+AStCyrwCg==;EndpointSuffix=core.windows.net"
+    }
+}
